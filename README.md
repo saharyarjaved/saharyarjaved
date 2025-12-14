@@ -2,8 +2,8 @@
 ### 💻 Passionate Software Developer | Student at MANUU | Building Scalable & User-Friendly Apps  
 
 [![Email](https://img.shields.io/badge/Email-rakibjaved1826@gmail.com-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rakibjaved1826@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-9370DB?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-8B008B?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-9370DB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://saharyarjaved.page.gd/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-8B008B?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saharyar-javed-8300162a4/)
 [![Phone](https://img.shields.io/badge/Phone-7564002401-9932CC?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917564002401)
 
 📍 **Hyderabad, Telangana, India**  
@@ -89,9 +89,9 @@ I'm always open to collaborating on interesting projects, discussing tech, or ju
 
 💜 **Email:** [rakibjaved1826@gmail.com](mailto:rakibjaved1826@gmail.com)  
 📱 **Phone:** +91 7564002401  
-🔗 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
+🔗 **LinkedIn:** [linkedin.com/in/saharyar-javed-8300162a4](https://www.linkedin.com/in/saharyar-javed-8300162a4/)  
 🐙 **GitHub:** [github.com/saharyarjaved](https://github.com/saharyarjaved)  
 
 ---
 
-> 💫 *"First, solve the problem. Then, write the code." – John Johnson*  
+> 💫 *"First, solve the problem. Then, write the code." – John Johnson*
