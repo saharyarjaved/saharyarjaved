@@ -12,11 +12,6 @@
 
 ---
 
-## 🚀 About Me  
-I’m a highly motivated software developer passionate about creating **efficient, scalable, and user-friendly applications**. I enjoy turning ideas into reality through code and am always eager to learn new technologies and frameworks. My goal is to contribute to meaningful projects that make a real impact ✨.
-
----
-
 ## 🛠️ Tech Stack  
 
 ### **Frontend Development**  
@@ -39,6 +34,11 @@ I’m a highly motivated software developer passionate about creating **efficien
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+---
+
+## 🚀 About Me  
+I’m a highly motivated software developer passionate about creating **efficient, scalable, and user-friendly applications**. I enjoy turning ideas into reality through code and am always eager to learn new technologies and frameworks. My goal is to contribute to meaningful projects that make a real impact ✨.
 
 ---
 
